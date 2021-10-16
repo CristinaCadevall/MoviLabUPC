@@ -1,0 +1,37 @@
+Version;Movilab v 1.0.15
+Date and Time;2021-10-16 22:35:45;Errors B/Tiempo Neto;Resp B;Num B
+ID Pacient;No id
+Edat Pacient;0
+ID Optometrista;No id
+Polaritat Inversa;0
+Distància exàmen;500
+AV test LogMAR;1.40
+AV LogMAR;0.00
+AV Decimal;0.00
+SC test;0.00
+SC;0.00
+AV test ENSC LogMAR;1.10
+ENsc;-1.00
+ENsc Filtre;-1.00
+ENt # respostes;0
+ENt Temps resposta;-1.00
+ENt # respostes Filtre 1;0
+ENt Temps resposta Filtre 1;-1.00
+ENt # respostes Filtre 2;0
+ENt Temps resposta Filtre 2;-1.00
+ENt # respostes Filtre 3;0
+ENt Temps resposta Filtre 3;-1.00
+ENt # respostes Filtre 4;0
+ENt Temps resposta Filtre 4;-1.00
+B Test #1 Num 'C';Error;5;0;5
+B Test #1 Temps resposta;-1.00;-1.00
+B Test #2 Num 'C';Error;5;0;5
+B Test #2 Temps resposta;-1.00;-1.00
+B Test #3 Linies;Error;5;0;5
+B Test #3 Temps resposta;-1.00;-1.00
+B Test #4 Mentonera Num 'C';Error;5;0;5
+B Test #4 Temps resposta;-1.00;-1.00
+B Test #5 Num 'C';Error;5;0;5
+B Test #5 Temps resposta;-1.00;-1.00
+B Test #6 Linies;Error;5;0;5
+B Test #6 Temps resposta;-1.00;-1.00
