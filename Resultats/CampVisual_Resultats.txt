@@ -1,0 +1,16 @@
+Version;Perimetria Movilab v 2.0.2
+Initial Date & Time:2021-10-16 22:38:46;
+Dot size;38;;;;;
+ID patient;No id
+Eye;Both;;;;;
+Direction;Col1;Row1;Col2;Row2
+A;0;-2;0;-13
+B;2;-2;13;-13
+C;2;0;24;0
+D;2;2;13;13
+E;0;2;0;13
+F;-2;2;-13;13
+G;-2;0;-24;0
+H;-2;-2;-13;-13
+Abis;0;-2;0;-13
+Experiment Done at 2021-10-16 22:39:05
